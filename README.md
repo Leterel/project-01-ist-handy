@@ -16,7 +16,7 @@ Die Animation ist erfunden. Die Gerätemerkmale kommen aus Androids lokalen Disp
 
 ## Installieren
 
-[Aktuellen Offline-Build herunterladen](https://github.com/Leterel/ist-handy/releases/tag/v0.1.1-build.20261025)
+[Aktuellen Offline-Build herunterladen](https://github.com/Leterel/project-01-ist-handy/releases/tag/v0.1.1-build.20261025)
 (öffentliches Repository).
 
 Der datierte Vorab-Tag enthält den aktuellen geprüften Build bei unverändertem
