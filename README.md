@@ -62,3 +62,7 @@ Hardwarebelege liegen dem neuen Prüfpaket bei; die fünf Matrixbilder und das
 Handy-im-Auto-Modus-Bild wurden zusätzlich angesehen. Alle Tests liefen auf
 einer API-34-Emulatorinstanz, ohne Zugriff auf ein physisches Gerät.
 Siehe [EMULATOR-VERIFICATION.md](EMULATOR-VERIFICATION.md).
+
+## Entwicklung und Übergabe
+
+[AGENTS.md](AGENTS.md) bündelt den Einstieg für Entwickler und KI-Agenten; [TESTING.md](TESTING.md) nennt reproduzierbare Prüfungen und deren Grenzen. Der aktuelle Übergabestand steht in [HANDOFF.md](HANDOFF.md).
